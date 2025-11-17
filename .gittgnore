@@ -1,0 +1,10 @@
+_pychche_/
+@.py[oc]
+build/
+dist/
+wheels/
+@.egg-info
+
+.venv
+
+.env
